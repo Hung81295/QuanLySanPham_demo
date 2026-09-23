@@ -101,6 +101,5 @@ public class QuanLyCongViec {
         }else {
             danhSachCV.set(danhSachSua,"[Đã xong] "+ tenCv);
         }
-
     }
 }
